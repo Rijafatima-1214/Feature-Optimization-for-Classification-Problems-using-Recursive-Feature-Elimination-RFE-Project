@@ -1,0 +1,2 @@
+# Feature-Optimization-for-Classification-Problems-using-Recursive-Feature-Elimination-RFE-Project
+This project applies Recursive Feature Elimination (RFE) on the Titanic dataset to identify the most impactful features for survival prediction. It compares classification model performance using all features versus the RFE-optimized subset, highlighting improvements in accuracy, interpretability, and efficiency.
